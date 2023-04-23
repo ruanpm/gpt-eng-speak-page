@@ -75617,7 +75617,7 @@ if(r&&n<2){s=s.a
 s===$&&A.b()
 B.b.oa(q,0,"User: "+s);++n}else if(!r&&m<2){s=s.a
 s===$&&A.b()
-B.b.oa(q,0,"AI: "+s);++m}--o}return B.b.aB(q,"\n")},
+B.b.oa(q,0,s);++m}--o}return B.b.aB(q,"\n")},
 hb(a){return this.a7p(a)},
 a7p(a1){var s=0,r=A.F(t.z),q,p=this,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0
 var $async$hb=A.B(function(a2,a3){if(a2===1)return A.C(a3,r)
