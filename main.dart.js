@@ -75771,11 +75771,11 @@ $S:0}
 A.aj1.prototype={
 $1(a){var s,r
 A.cI("result from listen mic")
-s=a.a
-A.cI(s.length!==0?B.b.gI(s).a:"")
-r=this.a
-if(r.c!=null)r.a0(new A.aiY(r,a))
-else r.r=s.length!==0?B.b.gI(s).a:""},
+A.cI(a)
+s=this.a
+if(s.c!=null)s.a0(new A.aiY(s,a))
+else{r=a.a
+s.r=r.length!==0?B.b.gI(r).a:""}},
 $S:473}
 A.aiY.prototype={
 $0(){var s=this.b.a
